@@ -3175,7 +3175,7 @@ if (localStorage.getItem("blogbg") != undefined) {
 } else {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://www.cosn.cc/assets/light-background.png);
-    --darkmode-bg:url(https://www.cosn.cc/assets/dark-background.png);
+    --darkmode-bg:url(https://www.cosn.cc/assets/dark-background.jpg);
     --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
     --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
   }`;
