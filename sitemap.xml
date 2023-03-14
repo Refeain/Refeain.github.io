@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://www.cosn.cc/posts/2013454d.html</loc>
+    
+    <lastmod>2023-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cosn.cc/categories/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
@@ -92,15 +101,6 @@
   </url>
   
   <url>
-    <loc>https://www.cosn.cc/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.cosn.cc/site/census/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
@@ -137,16 +137,16 @@
   </url>
   
   <url>
-    <loc>https://www.cosn.cc/posts/2013454d.html</loc>
+    <loc>https://www.cosn.cc/personal/love/index.html</loc>
     
-    <lastmod>2022-10-23</lastmod>
+    <lastmod>2023-03-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.cosn.cc/site/echarts/index.html</loc>
+    <loc>https://www.cosn.cc/site/charts/index.html</loc>
     
     <lastmod>2022-03-10</lastmod>
     
