@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.cosn.cc/personal/about/index.html</loc>
+    
+    <lastmod>2023-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cosn.cc/categories/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
@@ -66,15 +75,6 @@
   
   <url>
     <loc>https://www.cosn.cc/life/music/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cosn.cc/personal/about/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -148,7 +148,7 @@
   <url>
     <loc>https://www.cosn.cc/site/echarts/index.html</loc>
     
-    <lastmod>2022-09-10</lastmod>
+    <lastmod>2022-03-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
