@@ -20,25 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.cosn.cc/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cosn.cc/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cosn.cc/box/nav/index.html</loc>
+    <loc>https://www.cosn.cc/life/music/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -56,6 +38,15 @@
   </url>
   
   <url>
+    <loc>https://www.cosn.cc/box/animation/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cosn.cc/life/movies/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
@@ -65,25 +56,7 @@
   </url>
   
   <url>
-    <loc>https://www.cosn.cc/life/music/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cosn.cc/personal/about/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cosn.cc/personal/bb/index.html</loc>
+    <loc>https://www.cosn.cc/box/gallery/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -102,6 +75,24 @@
   
   <url>
     <loc>https://www.cosn.cc/site/census/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cosn.cc/personal/about/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cosn.cc/box/nav/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -129,6 +120,15 @@
   
   <url>
     <loc>https://www.cosn.cc/social/link/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cosn.cc/personal/bb/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
