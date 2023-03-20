@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.cosn.cc/tags/index.html</loc>
+    <loc>https://www.cosn.cc/categories/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.cosn.cc/categories/index.html</loc>
+    <loc>https://www.cosn.cc/tags/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.cosn.cc/life/movies/index.html</loc>
+    <loc>https://www.cosn.cc/personal/love/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -92,25 +92,16 @@
   </url>
   
   <url>
+    <loc>https://www.cosn.cc/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cosn.cc/life/music/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cosn.cc/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cosn.cc/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -128,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://www.cosn.cc/social/link/index.html</loc>
+    <loc>https://www.cosn.cc/site/time/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -137,7 +128,16 @@
   </url>
   
   <url>
-    <loc>https://www.cosn.cc/site/time/index.html</loc>
+    <loc>https://www.cosn.cc/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cosn.cc/social/link/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
