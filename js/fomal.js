@@ -3174,10 +3174,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://www.cosn.cc/assets/light-background.png);
-    --darkmode-bg:url(https://www.cosn.cc/assets/dark-background.jpg);
-    --mobileday-bg: url(https://www.cosn.cc/assets/snow.jpg);
-    --mobilenight-bg: url(https://www.cosn.cc/assets/mb8.jpg);
+    --default-bg: url(https://picbed.cosn.cc/img/light-background.png);
+    --darkmode-bg:url(https://picbed.cosn.cc/img/dark-background.jpg);
+    --mobileday-bg: url(https://picbed.cosn.cc/img/snow.jpg);
+    --mobilenight-bg: url(https://picbed.cosn.cc/img/mb8.jpg);
   }`;
 }
 // 切换背景主函数

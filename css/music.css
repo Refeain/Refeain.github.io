@@ -30,7 +30,7 @@
   }
   
   body:has(#anMusic-page) {
-    background-image: url(https://www.cosn.cc/assets/musicbg.jpg);
+    background-image: url(https://picbed.cosn.cc/img/musicbg.jpg);
     background-size: 100%;
 }
   
