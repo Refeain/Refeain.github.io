@@ -1497,7 +1497,7 @@ a:hover {
 #site-name,
 #aside-content .author-info__name,
 #aside-content .author-info__description {
-  font-family: var(--global-font);
+  font-family: LXGW;
 }
 .is-center {
   text-align: center;
@@ -2016,7 +2016,7 @@ figure.highlight pre .javascript .function {
   height: 100%;
   vertical-align: top;
   text-align: center;
-  font-family: var(--global-font);
+  font-family: LXGW;
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content .error-info {
