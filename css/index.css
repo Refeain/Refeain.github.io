@@ -6482,7 +6482,7 @@ blockquote.pullquote.right {
 
 @font-face {
   font-family: LXGW;
-  src: url(/font/霞鹜文楷.woff2);
+  src: url(https://fonts.cosn.cc/font/霞鹜文楷.woff2);
   font-display: swap;
 }
 
@@ -7655,7 +7655,7 @@ input#pic-link {
 
 /* heo 加载动画头像 */
 .loading-img {
-  background: url(https://www.cosn.cc/assets/head1.jpg)
+  background: url(https://picbed.cosn.cc/img/head1.jpg)
     no-repeat center center;
   background-size: cover;
 }
