@@ -101,6 +101,15 @@
   </url>
   
   <url>
+    <loc>https://www.cosn.cc/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cosn.cc/life/games/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
@@ -111,15 +120,6 @@
   
   <url>
     <loc>https://www.cosn.cc/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cosn.cc/personal/love/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
