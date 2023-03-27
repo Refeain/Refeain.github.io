@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.cosn.cc/posts/2023455d.html</loc>
+    
+    <lastmod>2023-03-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cosn.cc/posts/2023325d.html</loc>
+    
+    <lastmod>2023-03-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cosn.cc/posts/2023454d.html</loc>
     
     <lastmod>2023-03-27</lastmod>
     
@@ -66,15 +84,6 @@
   
   <url>
     <loc>https://www.cosn.cc/life/bangumis/index.html</loc>
-    
-    <lastmod>2023-03-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cosn.cc/posts/2023454d.html</loc>
     
     <lastmod>2023-03-25</lastmod>
     
@@ -182,6 +191,20 @@
 
   
   <url>
+    <loc>https://www.cosn.cc/tags/Teamspeak/</loc>
+    <lastmod>2023-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cosn.cc/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2023-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cosn.cc/tags/Hexo/</loc>
     <lastmod>2023-03-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -212,14 +235,14 @@
 
   
   <url>
-    <loc>https://www.cosn.cc/categories/Hexo/</loc>
+    <loc>https://www.cosn.cc/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2023-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.cosn.cc/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://www.cosn.cc/categories/Hexo/</loc>
     <lastmod>2023-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
